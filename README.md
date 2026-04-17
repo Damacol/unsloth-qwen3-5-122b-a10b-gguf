@@ -1,4 +1,4 @@
-# unsloth/Qwen3.5-122B-A10B-GGUF - Private, Uncensored AI for Real Creators and Devs
+# unsloth/Qwen3.5-122B-A10B-GGUF  - Private, Uncensored AI for Real Creators and Devs
 
 > Tired of AI that babysits you, logs your prompts, or hits you with "I can't do that"?
 > Meet the next-gen chatbot built for freedom, speed, and digital sovereignty.
